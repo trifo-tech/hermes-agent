@@ -5000,6 +5000,7 @@ export const deOverrides = {
       editModels: 'Modelle bearbeiten…',
       followDefault: 'Standard aus den Einstellungen verwenden',
       refreshModels: 'Modelle aktualisieren',
+      pinned: 'Angepinnt',
       fast: 'Schnell'
     },
     modelOptions: {
@@ -5007,6 +5008,9 @@ export const deOverrides = {
       options: 'Optionen',
       thinking: 'Denken',
       fast: 'Schnell',
+      pin: 'Anpinnen',
+      unpin: 'Lösen',
+      shiftClickHint: 'Shift-Klick auf ein Modell zum Anpinnen',
       effort: 'Aufwand',
       minimal: 'Minimal',
       low: 'Niedrig',

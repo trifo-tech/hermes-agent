@@ -3531,16 +3531,17 @@ export const zhHant = defineLocale({
       editModels: '編輯模型…',
       followDefault: '使用設定中的預設模型',
       refreshModels: '重新整理模型',
-      fast: '快速',
-      pinnedSection: '已釘選'
+      pinned: '已釘選',
+      fast: '快速'
     },
     modelOptions: {
       noOptions: '此模型沒有可用選項',
       options: '選項',
       thinking: '思考',
       fast: '快速',
-      pinModel: '釘選到頂端',
-      unpinModel: '取消釘選',
+      pin: '釘選',
+      unpin: '取消釘選',
+      shiftClickHint: 'Shift + 點擊模型以釘選',
       effort: '推理強度',
       minimal: '最小',
       low: '低',

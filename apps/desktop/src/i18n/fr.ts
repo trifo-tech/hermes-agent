@@ -5012,6 +5012,7 @@ export const frOverrides = {
       editModels: 'Modifier les modèles…',
       followDefault: 'Utiliser le modèle par défaut des Réglages',
       refreshModels: 'Actualiser les modèles',
+      pinned: 'Épinglées',
       fast: 'Rapide'
     },
     modelOptions: {
@@ -5019,6 +5020,9 @@ export const frOverrides = {
       options: 'Options',
       thinking: 'Réflexion',
       fast: 'Rapide',
+      pin: 'Épingler',
+      unpin: 'Désépingler',
+      shiftClickHint: "Shift-clic sur un modèle pour l'épingler",
       effort: 'Effort',
       minimal: 'Minimal',
       low: 'Faible',

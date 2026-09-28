@@ -4604,6 +4604,7 @@ export const en: Translations = {
       editModels: 'Edit models…',
       followDefault: 'Use Settings default',
       refreshModels: 'Refresh models',
+      pinned: 'Pinned',
       fast: 'Fast'
     },
     modelOptions: {
@@ -4611,6 +4612,9 @@ export const en: Translations = {
       options: 'Options',
       thinking: 'Thinking',
       fast: 'Fast',
+      pin: 'Pin',
+      unpin: 'Unpin',
+      shiftClickHint: 'Shift-click a model to pin',
       effort: 'Effort',
       minimal: 'Minimal',
       low: 'Low',

@@ -4990,6 +4990,7 @@ export const esOverrides = {
       editModels: 'Editar modelos…',
       followDefault: 'Usar el predeterminado de Ajustes',
       refreshModels: 'Actualizar modelos',
+      pinned: 'Fijadas',
       fast: 'Rápido'
     },
     modelOptions: {
@@ -4997,6 +4998,9 @@ export const esOverrides = {
       options: 'Opciones',
       thinking: 'Razonamiento',
       fast: 'Rápido',
+      pin: 'Fijar',
+      unpin: 'Desfijar',
+      shiftClickHint: 'Mayús-clic en un modelo para fijarlo',
       effort: 'Esfuerzo',
       minimal: 'Mínimo',
       low: 'Bajo',

@@ -3572,6 +3572,7 @@ export const ru = defineLocale({
       editModels: 'Изменить модели…',
       followDefault: 'Использовать модель по умолчанию из настроек',
       refreshModels: 'Обновить модели',
+      pinned: 'Закреплённые',
       fast: 'Быстрая'
     },
     modelOptions: {
@@ -3579,6 +3580,9 @@ export const ru = defineLocale({
       options: 'Опции',
       thinking: 'Размышление',
       fast: 'Быстрая',
+      pin: 'Закрепить',
+      unpin: 'Открепить',
+      shiftClickHint: 'Shift-клик по модели, чтобы закрепить',
       effort: 'Усилия',
       minimal: 'Минимально',
       low: 'Низкое',

@@ -4305,16 +4305,17 @@ export const zh = defineLocale({
       editModels: '编辑模型…',
       followDefault: '使用设置中的默认模型',
       refreshModels: '刷新模型',
-      fast: '快速',
-      pinnedSection: '已置顶'
+      pinned: '已置顶',
+      fast: '快速'
     },
     modelOptions: {
       noOptions: '此模型没有可用选项',
       options: '选项',
       thinking: '思考',
       fast: '快速',
-      pinModel: '置顶',
-      unpinModel: '取消置顶',
+      pin: '置顶',
+      unpin: '取消置顶',
+      shiftClickHint: 'Shift+ 单击模型以置顶',
       effort: '推理强度',
       minimal: '最小',
       low: '低',
